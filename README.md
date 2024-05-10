@@ -1,2 +1,3 @@
-# Atari-Breakout
-Trying to make an Atari Breakout Clone on PlayDate
+Counter
+
+An endless Counter for Playdate with cool visuals and satisfying sound effects.
